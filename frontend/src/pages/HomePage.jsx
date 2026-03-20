@@ -18,7 +18,7 @@ export default function HomePage() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.45 }}
       >
-        <p className="hero-badge">Caterer Demo</p>
+        <p className="hero-badge">Caterers Near me..s</p>
         <h1>Find the Perfect Caterer for Every Event</h1>
         <p className="hero-copy">
           Explore verified caterers, compare pricing, and filter by cuisine preferences in a
