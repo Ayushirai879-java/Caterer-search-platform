@@ -1,0 +1,242 @@
+[
+  {
+    "id": "68dd860d-b235-4438-9ebb-ccb8904c48a7",
+    "name": "Spice Route Catering",
+    "location": "Mumbai",
+    "pricePerPlate": 550,
+    "cuisines": [
+      "North Indian",
+      "Chinese",
+      "Desserts"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "b7022a53-91d4-4538-b24c-3984ece8e48a",
+    "name": "Royal Feast Planners",
+    "location": "Pune",
+    "pricePerPlate": 750,
+    "cuisines": [
+      "Mughlai",
+      "Biryani",
+      "Live Counters"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "b9d58b6c-98b8-4472-838b-4ce8d7b24f42",
+    "name": "Green Leaf Caterers",
+    "location": "Bengaluru",
+    "pricePerPlate": 480,
+    "cuisines": [
+      "South Indian",
+      "Jain",
+      "Continental"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "bf969aa7-7979-4cce-8103-93911322c1f5",
+    "name": "Urban Tandoor Events",
+    "location": "Delhi",
+    "pricePerPlate": 620,
+    "cuisines": [
+      "Punjabi",
+      "Tandoor",
+      "Street Food"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "a1657500-8760-44b3-a576-fe847f3f2f93",
+    "name": "Saffron Banquet Kitchen",
+    "location": "Hyderabad",
+    "pricePerPlate": 820,
+    "cuisines": [
+      "Hyderabadi",
+      "Mughlai",
+      "Desserts"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "3911d33a-fad7-4c51-b6d1-0c7bfff27ae4",
+    "name": "Coastal Flame Catering",
+    "location": "Goa",
+    "pricePerPlate": 700,
+    "cuisines": [
+      "Seafood",
+      "Goan",
+      "Continental"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "7a5d2000-8f34-440c-8fb3-9408bd22f862",
+    "name": "Celebration Box Caterers",
+    "location": "Ahmedabad",
+    "pricePerPlate": 510,
+    "cuisines": [
+      "Gujarati",
+      "North Indian",
+      "Snacks"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "067055c0-44e3-431b-98f7-c22f2fce3c9e",
+    "name": "Grand Terrace Foods",
+    "location": "Jaipur",
+    "pricePerPlate": 690,
+    "cuisines": [
+      "Rajasthani",
+      "North Indian",
+      "Desserts"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "fd8fe80c-4d79-4fa6-b3ae-0a1c79296311",
+    "name": "Velvet Plate Studio",
+    "location": "Kolkata",
+    "pricePerPlate": 640,
+    "cuisines": [
+      "Bengali",
+      "Chinese",
+      "Continental"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": "9db58aa7-f3b2-4297-bdde-02439c5759e6",
+    "name": "Lakeview Event Catering",
+    "location": "Udaipur",
+    "pricePerPlate": 910,
+    "cuisines": [
+      "Multi Cuisine",
+      "Live Grills",
+      "Desserts"
+    ],
+    "rating": 4.9
+  },
+  {
+    "id": "22c72273-50f6-4274-b1c0-91e7ad6f400c",
+    "name": "Amber Spice Collective",
+    "location": "Lucknow",
+    "pricePerPlate": 580,
+    "cuisines": [
+      "Awadhi",
+      "Kebabs",
+      "Biryani"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": "ea9d9327-aac3-44fa-b5f9-b0c45d4b8635",
+    "name": "Namma Oota Catering",
+    "location": "Mysuru",
+    "pricePerPlate": 430,
+    "cuisines": [
+      "South Indian",
+      "Traditional Meals",
+      "Sweets"
+    ],
+    "rating": 4.1
+  },
+  {
+    "id": "8fd011cb-8d33-4458-a9b0-ab507db3d138",
+    "name": "Signature Banquet Caterers",
+    "location": "Chandigarh",
+    "pricePerPlate": 760,
+    "cuisines": [
+      "Punjabi",
+      "Italian",
+      "Fusion"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": "72637c29-1257-463e-84fc-179e389505ef",
+    "name": "Marigold Event Kitchens",
+    "location": "Indore",
+    "pricePerPlate": 540,
+    "cuisines": [
+      "North Indian",
+      "Street Food",
+      "Chaats"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "77a370e9-f2dc-4a46-84bd-cecf13a4b657",
+    "name": "Crimson Feast Co",
+    "location": "Nagpur",
+    "pricePerPlate": 590,
+    "cuisines": [
+      "Maharashtrian",
+      "Chinese",
+      "Desserts"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "8d68d5dc-8493-4cbb-82fd-c10411b39a9c",
+    "name": "Skyline Gourmet Catering",
+    "location": "Noida",
+    "pricePerPlate": 870,
+    "cuisines": [
+      "Continental",
+      "Mediterranean",
+      "Live Pasta"
+    ],
+    "rating": 4.8
+  },
+  {
+    "id": "242bd808-dd19-4de4-a399-66df2f3b3068",
+    "name": "Temple Town Caterers",
+    "location": "Madurai",
+    "pricePerPlate": 460,
+    "cuisines": [
+      "South Indian",
+      "Chettinad",
+      "Sweets"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": "a0af9b07-e8d0-4961-9e25-a3c91f550c6d",
+    "name": "Blue Orchid Catering House",
+    "location": "Kochi",
+    "pricePerPlate": 730,
+    "cuisines": [
+      "Kerala",
+      "Seafood",
+      "Continental"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": "cabc4c9c-01f5-4162-bfac-dba31904ca58",
+    "name": "Heritage Handi Events",
+    "location": "Bhopal",
+    "pricePerPlate": 520,
+    "cuisines": [
+      "Mughlai",
+      "North Indian",
+      "Desserts"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": "861f7288-8997-48f4-995a-cf4e64a1f4ba",
+    "name": "Sunset Lawn Caterers",
+    "location": "Surat",
+    "pricePerPlate": 610,
+    "cuisines": [
+      "Gujarati",
+      "Punjabi",
+      "Chinese"
+    ],
+    "rating": 4.4
+  }
+]
