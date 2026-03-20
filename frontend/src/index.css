@@ -105,6 +105,25 @@ a {
   flex-wrap: wrap;
 }
 
+.hero-action-btn {
+  margin-top: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  min-width: 190px;
+}
+
+.admin-cta {
+  border-color: rgba(255, 125, 67, 0.42);
+  background: rgba(255, 125, 67, 0.08);
+}
+
+.admin-cta-unlocked {
+  border-color: rgba(149, 241, 167, 0.55);
+  background: rgba(149, 241, 167, 0.12);
+}
+
 .content-section {
   margin-top: 22px;
   display: grid;
@@ -149,6 +168,15 @@ a {
 
 .admin-access-form input:focus {
   border-color: rgba(255, 125, 67, 0.8);
+}
+
+.admin-access-form .primary-btn,
+.admin-access-form .secondary-btn {
+  margin-top: 0;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .add-caterer-form {
@@ -374,7 +402,9 @@ a {
     grid-template-columns: 1fr;
   }
 
-  .secondary-btn {
+  .filter-bar .secondary-btn,
+  .admin-access-form .secondary-btn,
+  .admin-access-form .primary-btn {
     width: 100%;
   }
 }
@@ -387,5 +417,9 @@ a {
 
   .hero-section {
     padding: 22px;
+  }
+
+  .hero-action-btn {
+    width: 100%;
   }
 }

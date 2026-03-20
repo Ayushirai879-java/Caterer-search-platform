@@ -25,10 +25,13 @@ export default function HomePage() {
           smooth, modern and responsive interface.
         </p>
         <div className="hero-links">
-          <Link to="/caterers" className="primary-btn">
+          <Link to="/caterers" className="primary-btn hero-action-btn">
             Explore Caterers
           </Link>
-          <Link to="/add-caterer" className="secondary-btn">
+          <Link
+            to="/add-caterer"
+            className="primary-btn hero-action-btn"
+          >
             {isAdminUnlocked ? "Add Caterers" : "Admin Login"}
           </Link>
         </div>
